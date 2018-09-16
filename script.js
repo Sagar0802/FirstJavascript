@@ -1,0 +1,1 @@
+alert("Iam From External File");/*alert box saying iam from external file */
